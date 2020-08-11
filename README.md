@@ -4,3 +4,5 @@ The Heirarchy of the codes are as follows:
   - tb_FFT.vhd
     - FFT2.vhd (or) FFT4.vhd (or) FFT8.vhd (or) FFT16.vhd
       - Butterfly_Stage.vhd
+  
+  For more information kindly take a look on the Report available within this repository.
